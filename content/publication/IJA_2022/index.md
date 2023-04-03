@@ -13,7 +13,7 @@ featured: false
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/sdtnZ4LgbWk)'
   focal_point: ""
-  preview_only: true
+  preview_only: false
 #projects: []
 publication: '*International Journal of Audiology, 61* 875–887 (2022)'
 #publication_short: ""
@@ -25,7 +25,7 @@ publication: '*International Journal of Audiology, 61* 875–887 (2022)'
 #  ac convallis placerat. Proin tincidunt magna sed ex #sollicitudin condimentum.
 #tags:
 #- Source Themes
-title: Sound quality perception of cochlear implant recipients: low-frequency information and foreign-language effect
+title: Sound quality perception of cochlear implant recipients; low-frequency information and foreign-language effect
 url_code: ""
 url_dataset: ""
 url_pdf: https://doi.org/10.1080/14992027.2021.2005833
