@@ -1,5 +1,5 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include auditory neuroscience, psychoacoustics, and implantable devices.
 education:
   courses:
   - course: PhD in Speech and Hearing Science
