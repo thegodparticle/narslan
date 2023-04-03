@@ -53,6 +53,7 @@ title: Niyazi Arslan
 ---
 
 Niyazi is a third-year Ph.D. student in the Speech and Hearing Science program at Arizona State University. He is conducting research in the Auditory Implant Laboratory directed by Dr. Xin Luo. He grew up in Istanbul, Turkey where he obtained Master of Science (M.Sc.) degree in Audiology from Marmara University and worked as an audiologist in cochlear implant services. His research interests include cochlear implants and auditory psychophysics.
+
 {style="text-align: justify;"}
 
 #### <i class="fa fa-download" aria-hidden="true" style="color:#035AA6"></i> {{< staticref "cv/alzahawi.pdf" "newtab" >}}Download my CV{{< /staticref >}}
