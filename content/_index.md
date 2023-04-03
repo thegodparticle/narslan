@@ -13,40 +13,47 @@ sections:
       icon: r-project
       icon_pack: fab
       name: R
+    - description: 90%
+      icon: python
+      icon_pack: fab
+      name: Python
     - description: 100%
       icon: chart-line
       icon_pack: fas
       name: Statistics
-    - description: 10%
-      icon: camera-retro
+    - description: 100%
+      icon: wave-square
       icon_pack: fas
-      name: Photography
-    title: Skills
+      name: Digital Signal Analysis
+   title: Skills
 - block: experience
   content:
     date_format: Jan 2006
     items:
-    - company: GenCoin
-      company_logo: org-gc
+    - company: Arizona State University
+      company_logo: building-columns
       company_url: ""
       date_end: ""
-      date_start: "2021-01-01"
-      description: |2-
-          Responsibilities include:
-
-          * Analysing
-          * Modelling
-          * Deploying
-      location: California
-      title: CEO
-    - company: University X
-      company_logo: org-x
+      date_start: "2020-08-01"
+      description: 
+      location: Tempe
+      title: Graduate Research And Teaching Assistant
+    - company: Ikem Isik Auditory Rehabilitation Center
+      company_logo: circle-k
       company_url: ""
-      date_end: "2020-12-31"
-      date_start: "2016-01-01"
-      description: Taught electronic engineering and researched semiconductor physics.
-      location: California
-      title: Professor of Semiconductor Physics
+      date_end: "2019-06-31"
+      date_start: "2017-09-01"
+      description: Worked with cochlear implant users
+      location: Istanbul/Turkey
+      title: Audiologist
+    - company: Universita degli Studi di Padova
+      company_logo: building-columns
+      company_url: ""
+      date_end: "2015-05-01"
+      date_start: "2015-09-01"
+      description: Worked with cochlear implant users
+      location: Istanbul/Turkey
+      title: Intern Audiologist      
     title: Experience
   design:
     columns: "2"
