@@ -36,7 +36,7 @@ sections:
       title: Intern Audiologist      
     title: Experience
   design:
-    columns: "2"
+    columns: "3"
 - block: accomplishments
   content:
     date_format: Jan 2006
