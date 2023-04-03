@@ -1,6 +1,6 @@
 
 ---
-title: Cochlear implants can bring the experience of sound to those with hearing loss, but results may vary – here’s why
+title: Cochlear implants can bring the experience of sound to those with hearing loss, but results may vary – here’s why
 date: 2023-04-03
 author: Niyazi Arslan
 institution: Arizona State University
