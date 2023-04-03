@@ -26,17 +26,8 @@ sections:
       description: Worked with cochlear implant users
       location: Istanbul/Turkey
       title: Audiologist
-    - company: Universita degli Studi di Padova
-      company_logo: building-columns
-      company_url: ""
-      date_end: "2015-05-01"
-      date_start: "2015-09-01"
-      description: Worked with cochlear implant users
-      location: Istanbul/Turkey
-      title: Intern Audiologist      
-    title: Experience
   design:
-    columns: "3"
+    columns: "2"
 - block: accomplishments
   content:
     date_format: Jan 2006
