@@ -11,7 +11,7 @@ sections:
     date_format: Jan 2006
     items:
     - company: Arizona State University
-      company_logo: org-gc.svg
+      company_logo: org-gc
       company_url: ""
       date_end: ""
       date_start: "2020-08-01"
@@ -19,7 +19,7 @@ sections:
       location: Tempe
       title: Graduate Research And Teaching Assistant
     - company: Ikem Isik Auditory Rehabilitation Center
-      company_logo: org-x.svg
+      company_logo: org-x
       company_url: ""
       date_end: "2019-06-31"
       date_start: "2017-09-01"
