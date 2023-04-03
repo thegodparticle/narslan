@@ -1,6 +1,6 @@
 ---
 cms_exclude: true
-draft: true
+draft: false
 header:
   caption: ""
   image: ""
