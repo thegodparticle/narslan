@@ -48,7 +48,6 @@ sections:
     columns: "2"
     view: card
   id: featured
-  
 - block: collection
   content:
     filters:
@@ -63,6 +62,7 @@ sections:
   design:
     columns: "2"
     view: citation
+
 - block: contact
   content:
     contact_links:
