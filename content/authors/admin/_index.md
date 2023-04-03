@@ -1,6 +1,5 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 education:
   courses:
   - course: PhD in Speech and Hearing Science
@@ -22,8 +21,8 @@ interests:
 last_name: Arslan
 organizations:
 - name: Arizona State University
-  url: https://www.asu.edu/
-role: PhD Candidate
+  url: https://search.asu.edu/profile/3630640
+role: PhD Candidate in Speech and Hearing Science
 social:
 - icon: envelope
   icon_pack: fas
@@ -34,15 +33,15 @@ social:
   icon_pack: fab
   label: Follow me on Twitter
   link: https://twitter.com/niyazioarslan
-#- icon: graduation-cap
-#  icon_pack: fas
-#  link: https://scholar.google.co.uk/citations?user=sIwtM# XoAAAAJ
+- icon: graduation-cap
+  icon_pack: fas
+  link: https://scholar.google.com/citations?user=cTzzqvMAAAAJ&hl=en
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
-#- icon: linkedin
-#  icon_pack: fab
-#  link: https://www.linkedin.com/
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/niyaziarslan
 #- icon: cv
 #  icon_pack: ai
 #  link: uploads/resume.pdf
@@ -50,9 +49,10 @@ social:
 #  icon: ☕️
 superuser: true
 title: Niyazi Arslan
+
 ---
 
 Niyazi is a third-year Ph.D. student in the Speech and Hearing Science program at Arizona State University. He is conducting research in the Auditory Implant Laboratory directed by Dr. Xin Luo. He grew up in Istanbul, Turkey where he obtained Master of Science (M.Sc.) degree in Audiology from Marmara University and worked as an audiologist in cochlear implant services. His research interests include cochlear implants and auditory psychophysics.
 
-#### <i class="fa fa-download" aria-hidden="true" style="color:#035AA6"></i> {{< staticref "cv/alzahawi.pdf" "newtab" >}}Download my CV{{< /staticref >}}
+#### <i class="fa fa-download" aria-hidden="true" style="color:#035AA6"></i> {{< staticref "uploads/resume.pdf" "newtab" >}}Download my CV{{< /staticref >}}
 </center> 

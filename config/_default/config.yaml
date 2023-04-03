@@ -4,7 +4,7 @@ theme: "starter-hugo-academic"
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Niyazi Arslan's Personal Website # Website name
+title: Niyazi Arslan # Website name
 baseURL: 'https://niyaziarslan.netlify.app' # Website URL
 
 ############################
