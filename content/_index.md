@@ -6,26 +6,6 @@ sections:
     text: null
     username: admin
   id: about
-- block: features
-  content:
-    items:
-    - description: 90%
-      icon: r-project
-      icon_pack: fab
-      name: R
-    - description: 90%
-      icon: python
-      icon_pack: fab
-      name: Python
-    - description: 100%
-      icon: chart-line
-      icon_pack: fas
-      name: Statistics
-    - description: 100%
-      icon: wave-square
-      icon_pack: fas
-      name: Digital Signal Analysis
-   title: Skills
 - block: experience
   content:
     date_format: Jan 2006
