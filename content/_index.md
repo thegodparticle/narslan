@@ -90,11 +90,9 @@ sections:
     contact_links:
     email: narslan@asu.edu
     form:
-      formspree:
-        id: arslaniyazi@outlook.com
+      provider: netlify    
       netlify:
-        captcha: false
-      provider: netlify
+        captcha: true
     subtitle: null
     text: Please feel free to contact me via email if you have any questions or inquiries.
     title: Contact
