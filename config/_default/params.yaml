@@ -18,8 +18,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'Niyazi Arslan personal website'
-    twitter: 'niyazioarslan'
+    description: 'Personal Website'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -94,9 +94,13 @@ features:
       index_name: ''
       show_logo: false
   map:
-    provider: ''
+    provider: 'mapnik'
     api_key: ''
     zoom: 15
+  content:
+    coordinates:
+      latitude: '33.419580294909814'
+      longitude: '-111.93791303071752'
 
 # Extensions
 
