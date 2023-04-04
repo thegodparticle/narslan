@@ -16,7 +16,7 @@ sections:
       date_end: ""
       date_start: "2020-08-01"
       description: 
-      location: Tempe
+      location: Tempe/AZ
       title: Graduate Research And Teaching Assistant
     - company: Ikem Isik Auditory Rehabilitation Center
       company_logo: 
@@ -32,7 +32,7 @@ sections:
       date_end: "2015-05-01"
       date_start: "2015-09-01"
       description: 
-      location: Istanbul/Turkey
+      location: Padova/Italy
       title: Intern Audiologist
     title: Experience
   design:
