@@ -15,15 +15,14 @@ image:
   focal_point: ""
   preview_only: false
 #projects: []
-publication: '*International Journal of Audiology, 61* 875–887 (2022)'
+publication: '*International Journal of Audiology, 61*, 875–887 (2021)'
 #publication_short: ""
 #publication_types:
 #- "2"
 #publishDate: "2017-01-01T00:00:00Z"
 #slides: example
-#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-#  ac convallis placerat. Proin tincidunt magna sed ex #sollicitudin condimentum.
-#tags:
+summary: This study aimed to adapt a method used in sound quality measurements named CI-MUSHRA (the multiple stimuli with hidden reference and anchor for cochlear implant users) to the Turkish language.
+tags: Cochlear Implants, Sound Quality
 #- Source Themes
 title: Sound quality perception of cochlear implant recipients; low-frequency information and foreign-language effect
 url_code: ""
