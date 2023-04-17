@@ -96,9 +96,17 @@ sections:
     subtitle: null
     text: Please feel free to contact me via email if you have any questions or inquiries.
     title: Contact
+    extra:
+      - raw_html: |
+          <a class="twitter-timeline" data-width="400" data-height="400" href="https://twitter.com/niyazioarslan?ref_src=twsrc%5Etfw">Tweets by niyazioarslan</a> 
+          <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
   design:
     columns: "2"
   id: contact
 title: null
 type: landing
+extra:
+
 ---
+
+

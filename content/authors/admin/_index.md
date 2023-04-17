@@ -52,10 +52,19 @@ title: Niyazi Arslan
 
 ---
 
-Niyazi O. Arslan is a third-year Ph.D. student in the Speech and Hearing Science program at Arizona State University. He is a Graduate Research Associate at the Auditory Implant Laboratory, directed by Dr. Xin Luo. He obtained a Bachelor of Science (BSc.) degree in Audiology from Bezmialem Vakif University and a Master of Science (MSc.) degree in Speech and Hearing Sciences from Marmara University. Niyazi has also worked as an audiologist in cochlear implant services in Istanbul, Turkey. His current research interests include cochlear implants, auditory psychophysics, and the relationship between pitch perception and neural health.
+<p>Niyazi O. Arslan is a third-year Ph.D. student in the Speech and Hearing Science program at Arizona State University. He is a Graduate Research Associate at the Auditory Implant Laboratory, directed by Dr. Xin Luo. He obtained a Bachelor of Science (BSc.) degree in Audiology from Bezmialem Vakif University and a Master of Science (MSc.) degree in Speech and Hearing Sciences from Marmara University. Niyazi has also worked as an audiologist in cochlear implant services in Istanbul, Turkey. His current research interests include cochlear implants, auditory psychophysics, and the relationship between pitch perception and neural health.</p>
 
 #### <i class="fa fa-download" aria-hidden="true" style="color:#150206"></i> {{< staticref "uploads/resume.pdf" "newtab" >}}Download my CV{{< /staticref >}}
 </center> 
 
-<script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="narslan" data-description="Support me on Buy me a coffee!" data-message="By buying me a coffee, you're helping me stay energized and focused on delving deeper into the fascinating world of science. Your support means I can continue sharing my findings and insights with you." data-color="#F2F211" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
 
+
+<div class="d-flex justify-content-center">
+  <div class="mx-auto">
+    <a class="twitter-timeline" data-width="400" data-height="600" href="https://twitter.com/niyazioarslan?ref_src=twsrc%5Etfw">Tweets by niyazioarslan</a>
+    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  </div>
+</div>
+
+
+<script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="narslan" data-description="Support me on Buy me a coffee!" data-message="By buying me a coffee, you're helping me stay energized and focused on delving deeper into the fascinating world of science. Your support means I can continue sharing my findings and insights with you." data-color="#F2F211" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
