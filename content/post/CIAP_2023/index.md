@@ -5,8 +5,6 @@ author: Niyazi Arslan
 institution: Arizona State University
 image:
   caption: 'Memorable moment with my academic hero, Professor Shannon'
-  width: 50px
-  height: 300px
   placement: 2 
 ---  
 
@@ -14,76 +12,125 @@ The Auditory Implant Lab participated in #CIAP2023, where we had the honor of pr
 
 For more information about the conference, you can visit the [CIAP2023 website](http://www.ciaphome.org/programs.html).
 
+<h2>Take a look at some highlights from the conference:</h2>
 
-<!-- Add your slideshow here -->
+<!-- Slideshow container -->
 <div class="slideshow-container">
-  <div class="slide">
-    <img src="./CIAP1.png" alt="Slide 1">
+
+  <!-- Full-width images with number and caption text -->
+  <div class="mySlides fade" onclick="toggleSlideshow()">
+    <div class="numbertext">1 / 4</div>
+    <img src="./CIAP1.png" style="width:100%">
+    <div class="text"></div>
   </div>
-  <div class="slide">
-    <img src="./CIAP2.png" alt="Slide 2">
+
+  <div class="mySlides fade onclick="toggleSlideshow()">
+    <div class="numbertext">2 / 4</div>
+    <img src="./CIAP2.png" style="width:100%">
+    <div class="text"></div>
   </div>
-  <div class="slide">
-    <img src="./CIAP3.png" alt="Slide 3">
+
+  <div class="mySlides fade onclick="toggleSlideshow()"">
+    <div class="numbertext">3 / 4</div>
+    <img src="./CIAP3.png" style="width:100%">
+    <div class="text"></div>
   </div>
-  <div class="slide">
-    <img src="./CIAP4.png" alt="Slide 4">
-  </div>  
+  
+  <div class="mySlides fade onclick="toggleSlideshow()"">
+    <div class="numbertext">4 / 4</div>
+    <img src="./CIAP4.png" style="width:100%">
+    <div class="text"></div>
+  </div> 
 </div>
 
-<div class="navigation">
-  <a class="prev" onclick="changeSlide(-1)">&#10094;</a>
-  <a class="next" onclick="changeSlide(1)">&#10095;</a>
+<!-- The dots/circles -->
+<div style="text-align:center">
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span> 
 </div>
 
 <style>
-  /* Add CSS styles for the slideshow here */
-  .slideshow-container {
-    position: relative;
-    width: 100%;
-  }
+* {box-sizing:border-box}
 
-  .slide {
-    display: none;
-  }
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
 
-  .slide img {
-    width: 100%;
-    height: auto;
-  }
+.mySlides {
+  display: none;
+  position: relative;
+  width: 100%;
+  height: 500px;
+}
 
-  /* CSS styles for the navigation arrows */
-  .navigation {
-    text-align: center;
-    margin-top: 10px;
-  }
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
 
-  .navigation a {
-    font-size: 36px; /* Adjust the arrow size as per your preference */
-    cursor: pointer;
-    text-decoration: none;
-  }
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 1s ease;
+}
+
+.active, .dot:hover {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 4s;
+  animation-name: fade;
+  animation-duration: 4s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
 </style>
 
+
 <script>
-  let slideIndex = 1;
-  showSlide(slideIndex);
+  let slideIndex = 0;
+  showSlides();
 
-  function changeSlide(n) {
-    showSlide(slideIndex += n);
-  }
-
-  function showSlide(n) {
-    const slides = document.getElementsByClassName("slide");
-    if (n > slides.length) {
-      slideIndex = 1;
+  function showSlides() {
+    let i;
+    let slides = document.getElementsByClassName("mySlides");
+    let dots = document.getElementsByClassName("dot");
+    for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";  
     }
-    if (n < 1) {
-      slideIndex = slides.length;
+    slideIndex++;
+    if (slideIndex > slides.length) {slideIndex = 1}    
+    for (i = 0; i < dots.length; i++) {
+      dots[i].className = dots[i].className.replace(" active", "");
     }
-    for (let i = 0; i < slides.length; i++) {
-      slides[i].style.display = "none";
-    }
-    slides[slideIndex - 1].style.display = "block";
+    slides[slideIndex-1].style.display = "block";  
+    dots[slideIndex-1].className += " active";
+    setTimeout(showSlides, 4000); // Change image every 4 seconds
   }
 </script>
