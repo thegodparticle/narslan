@@ -12,7 +12,7 @@ The Auditory Implant Lab participated in #CIAP2023, where we had the honor of pr
 
 For more information about the conference, you can visit the [CIAP2023 website](http://www.ciaphome.org/programs.html).
 
-<h2>Take a look at some highlights from the conference:</h2>
+Take a look at some highlights from the conference:
 
 <!-- Slideshow container -->
 <div class="slideshow-container">
