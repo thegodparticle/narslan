@@ -34,3 +34,20 @@ url_video: ""
 ---
 
 ![png](./NeuralHealth.png)
+
+<html>
+  <body>
+    <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+  </body>
+</html>
+
+<div style="display: flex; justify-content: space-around;">
+    <div>
+        <div data-badge-details="right" data-badge-type="medium-donut" data-doi="10.1007/s10162-022-00876-w" data-hide-no-mentions="true" class="altmetric-embed"></div>
+    </div>
+    <div>
+        <span class="__dimensions_badge_embed__" data-doi="10.1007/s10162-022-00876-w" data-legend="always"></span>
+    </div>
+</div>
+
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
