@@ -109,8 +109,3 @@ extra:
 
 ---
 
-</body>
-
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=2djLk2mktFJhw2QReSFwlPQoIVK6BvkwqlwzwQNYRjI&cl=ffffff&w=a"></script>
-
-</body>
