@@ -37,15 +37,6 @@ url_video: "./publication/CIAP_2023/PosterVideo.mp4"
 
 📢 **Announcement**: This abstract was accepted for poster presentation at the CIAP2023 conference.
 
-</div>
-
-<div style="background-color: #f9f9f9; padding: 15px; border: 1px solid #eaeaea; border-radius: 10px; box-shadow: 2px 2px 12px #aaa; margin-bottom: 20px;">
-    
-   ### **What the video presentation below:**
-   
-   {{< video src="PosterVideo.mp4" controls="yes" style="width: 100%; max-width: 800px; display: block; margin: 0 auto;" >}}
-
-</div>
 
 <div style="background-color: #f9f9f9; padding: 15px; border: 1px solid #eaeaea; border-radius: 10px; box-shadow: 2px 2px 12px #aaa; margin-bottom: 20px;">
     
