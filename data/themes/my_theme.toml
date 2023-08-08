@@ -3,35 +3,35 @@ name = "my_theme"
 
 [light]
   # Primary
-  primary = "#bf874b"
+  primary = "#6B8EAA"   # A soothing steel blue, versatile for various elements
 
   # Menu
-  menu_primary = "#7C9D96"
-  menu_text = "#fff"
-  menu_text_active = "#bf874b"
-  menu_title = "#bf874b"
+  menu_primary = "#324E63"  # A darker blue that contrasts well with white text
+  menu_text = "#FFFFFF"    # A classic white for readability
+  menu_text_active = "#F2E9E1"  # A soft off-white to indicate active status
+  menu_title = "#D9C3A5"  # A muted beige to contrast with the dark blue menu
 
   # Home sections
-  home_section_odd = "fff"
-  home_section_even = "#F8F5F2"
-  
-  link = "#ad5d07"
-  link_hover = "#F4F2DE"
+  home_section_odd = "#FFFFFF"  # A clean white for clarity and brightness
+  home_section_even = "#EAE7E2" # A light grayish-tan for subtle contrast
+
+  link = "#D9B382"  # A warm light brown that is inviting for links
+  link_hover = "#F2E9E1"  # An off-white to show a hover effect on links
 
 [dark]
   # Primary
-  primary = "#F3B26D"
-#  text = "#8342a8"
-#  link_decoration = "underline"
+  primary = "#F3B26D"   # Keeping the warm light brown as it contrasts well with darker backgrounds
+
+  # Menu
+  menu_primary = "#0E182E"  # A deep navy blue
+  menu_text = "#D9C3A5"     # A muted beige for better readability on a dark background
+  menu_text_active = "#F2E9E1"  # A soft off-white to indicate active status
   
-  menu_primary = "#0E182E"
-  menu_text_active = "#F3B26D"
-  
-  background = "#1C2945"
+  background = "#1C2945"  # A slightly brighter navy blue
   
   # Home sections
-  home_section_odd = "#1C2945"
-  home_section_even = "#0E182E"
-
-  link = "#F3B26D"
-  link_hover = "#377DE8"
+  home_section_odd = "#1C2945"  # Consistent with the background color for a seamless look
+  home_section_even = "#0E182E" # A slightly darker shade for contrast
+  
+  link = "#F3B26D"  # The warm light brown for links, consistent with the primary color
+  link_hover = "#6B8EAA"  # The soothing steel blue, to maintain consistency with the light theme and to give a fresh look when hovering over links
