@@ -36,7 +36,7 @@ main:
     url: '#about'
     parent: Home
     weight: 10
-  - name: Recent Blog Posts
+  - name: Recent Posts
     url: '#posts'
     parent: Home
     weight: 20    
