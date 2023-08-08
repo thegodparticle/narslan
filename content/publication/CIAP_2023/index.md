@@ -47,7 +47,7 @@ url_video: "./publication/CIAP_2023/PosterVideo.mp4"
 
 <div style="background-color: #f9f9f9; padding: 15px; border: 1px solid #eaeaea; border-radius: 10px; box-shadow: 2px 2px 12px #aaa; margin-bottom: 20px;" class="theme-text">
     
-   ### **What the video presentation below:**
+   ### **Watch the video presentation below:**
    
    {{< video src="PosterVideo.mp4" controls="yes" style="width: 100%; max-width: 800px; display: block; margin: 0 auto;" >}}
 
