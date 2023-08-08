@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: rose
-  theme_night: Rose 
+  theme_day: my_theme
+  theme_night: my_theme 
   font: Rose 
   font_size: L
 
@@ -36,7 +36,7 @@ header:
     show_logo: true
     show_language: false
     show_day_night: true
-    show_search: true
+    show_search: false
     highlight_active_link: true
 
 # Site footer
