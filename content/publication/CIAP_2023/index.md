@@ -33,18 +33,27 @@ url_source: ""
 url_video: "./publication/CIAP_2023/PosterVideo.mp4"
 ---
 
-<div style="background-color: #E5E7EB; padding: 15px; border: 1px solid #eaeaea; border-radius: 10px; box-shadow: 2px 2px 12px #aaa; margin-top: 20px; text-align: center; font-style: italic;">
+<style>
+   .theme-text {
+      color: #30475e; /* Dark blue color that should be readable on both light and dark backgrounds */
+   }
+</style>
+
+<div style="background-color: #E5E7EB; padding: 15px; border: 1px solid #eaeaea; border-radius: 10px; box-shadow: 2px 2px 12px #aaa; margin-top: 20px; text-align: center; font-style: italic;" class="theme-text">
 
 📢 **Announcement**: This abstract was accepted for poster presentation at the CIAP2023 conference.
 
+</div>
 
-<div style="background-color: #f9f9f9; padding: 15px; border: 1px solid #eaeaea; border-radius: 10px; box-shadow: 2px 2px 12px #aaa; margin-bottom: 20px;">
+<div style="background-color: #f9f9f9; padding: 15px; border: 1px solid #eaeaea; border-radius: 10px; box-shadow: 2px 2px 12px #aaa; margin-bottom: 20px;" class="theme-text">
     
    ### **What the video presentation below:**
    
    {{< video src="PosterVideo.mp4" controls="yes" style="width: 100%; max-width: 800px; display: block; margin: 0 auto;" >}}
 
-<div style="background-color: #f9f9f9; padding: 15px; border: 1px solid #eaeaea; border-radius: 10px; box-shadow: 2px 2px 12px #aaa; margin-top: 20px; text-align: center;">
+</div>
+
+<div style="background-color: #f9f9f9; padding: 15px; border: 1px solid #eaeaea; border-radius: 10px; box-shadow: 2px 2px 12px #aaa; margin-top: 20px; text-align: center;" class="theme-text">
 
    ### **See the poster below:**
 
