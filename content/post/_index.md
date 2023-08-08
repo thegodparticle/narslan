@@ -1,9 +1,11 @@
 ---
-cms_exclude: true
-draft: false
-header:
-  caption: ""
-  image: ""
 title: Posts
-view: 2
+
+# Listing view
+view: compact
+
+# Optional banner image (relative to `assets/media/` folder).
+banner:
+  caption: ''
+  image: ''
 ---

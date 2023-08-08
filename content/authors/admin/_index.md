@@ -1,10 +1,11 @@
 ---
 bio: My research interests include auditory neuroscience, psychoacoustics, and implantable devices.
+
 education:
   courses:
-  - course: PhD in Speech and Hearing Science
+  - course: PhD in Speech and Hearing Science (Auditory and Language Neuroscience)
     institution: Arizona State University
-    year: Expected 2024
+    year: 2025
   - course: MSc in Speech and Hearing Science
     institution: Marmara University
     year: 2019
@@ -13,12 +14,12 @@ education:
     year: 2008
 email: "narslan@asu.edu"
 first_name: Niyazi
+last_name: Arslan
 highlight_name: true
 interests:
 - Auditory Neuroscience
 - Cochlear Implants
 - Psychoacoustics
-last_name: Arslan
 organizations:
 - name: Arizona State University
   url: https://search.asu.edu/profile/3630640
@@ -52,12 +53,12 @@ title: Niyazi Arslan
 
 ---
 
-<p>Niyazi O. Arslan is a third-year Ph.D. student in the Speech and Hearing Science program at Arizona State University. He is a Graduate Research Associate at the Auditory Implant Laboratory, directed by Dr. Xin Luo. He obtained a Bachelor of Science (BSc.) degree in Audiology from Bezmialem Vakif University and a Master of Science (MSc.) degree in Speech and Hearing Sciences from Marmara University. Niyazi has also worked as an audiologist in cochlear implant services in Istanbul, Turkey. His current research interests include cochlear implants, auditory psychophysics, and the relationship between pitch perception and neural health.</p>
+<p>Niyazi O. Arslan is a fourth-year Ph.D. student in the Speech and Hearing Science program at Arizona State University. He is a Graduate Research Associate at the Auditory Implant Laboratory, directed by Dr. Xin Luo. He obtained a Bachelor of Science (BSc.) degree in Audiology from Bezmialem Vakif University and a Master of Science (MSc.) degree in Speech and Hearing Sciences from Marmara University. Niyazi has also worked as an audiologist in cochlear implant services in Istanbul, Turkey. His current research interests include cochlear implants, auditory psychophysics, and the relationship between pitch perception and neural health.</p>
 
-#### <i class="fa fa-download" aria-hidden="true" style="color:#150206"></i> {{< staticref "uploads/resume.pdf" "newtab" >}}Download my CV{{< /staticref >}}
+
 </center> 
-
-
+<i class="fa fa-download" aria-hidden="true" style="color:#150206"></i> {{< staticref "uploads/resume.pdf" "newtab" >}}Look at my CV!{{< /staticref >}}
+</center> 
 
 
 <script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="narslan" data-description="Support me on Buy me a coffee!" data-message="By buying me a coffee, you're helping me stay energized and focused on delving deeper into the fascinating world of science. Your support means I can continue sharing my findings and insights with you." data-color="#F2F211" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
