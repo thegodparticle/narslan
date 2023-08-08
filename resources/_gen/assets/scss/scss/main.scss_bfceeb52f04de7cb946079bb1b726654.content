@@ -9667,68 +9667,6 @@ div.chart {
   overflow-x: auto; }
 
 /* My own custom stuff */
-@-webkit-keyframes slide-from-right {
-  0% {
-    -webkit-transform: translateX(150%);
-    transform: translateX(150%); }
-  100% {
-    -webkit-transform: translateX(0%);
-    transform: translateX(0%); } }
-
-@keyframes slide-from-right {
-  0% {
-    -webkit-transform: translateX(150%);
-    transform: translateX(150%); }
-  100% {
-    -webkit-transform: translateX(0%);
-    transform: translateX(0%); } }
-
-#about .biography-title {
-  -webkit-animation: slide-from-right 1s cubic-bezier(0.87, 0, 0.13, 1) forwards;
-  animation: slide-from-right 1s cubic-bezier(0.87, 0, 0.13, 1) forwards; }
-
-#about .main-content {
-  -webkit-animation: slide-from-right 1s cubic-bezier(0.87, 0, 0.13, 1) forwards;
-  animation: slide-from-right 1s cubic-bezier(0.87, 0, 0.13, 1) forwards;
-  -webkit-animation-delay: 100ms;
-  animation-delay: 100ms; }
-
-@-webkit-keyframes slide-from-left {
-  0% {
-    -webkit-transform: translateX(-150%);
-    transform: translateX(-150%); }
-  100% {
-    -webkit-transform: translateX(0%);
-    transform: translateX(0%); } }
-
-@keyframes slide-from-left {
-  0% {
-    -webkit-transform: translateX(-150%);
-    transform: translateX(-150%); }
-  100% {
-    -webkit-transform: translateX(0%);
-    transform: translateX(0%); } }
-
-#about #profile {
-  -webkit-animation: slide-from-left 1s cubic-bezier(0.87, 0, 0.13, 1) forwards;
-  animation: slide-from-left 1s cubic-bezier(0.87, 0, 0.13, 1) forwards; }
-
-#about .social-container {
-  -webkit-animation: slide-from-left 1s cubic-bezier(0.87, 0, 0.13, 1) forwards;
-  animation: slide-from-left 1s cubic-bezier(0.87, 0, 0.13, 1) forwards; }
-
-@-webkit-keyframes fade-in {
-  0% {
-    opacity: 0; }
-  100% {
-    opacity: 1; } }
-
-@keyframes fade-in {
-  0% {
-    opacity: 0; }
-  100% {
-    opacity: 1; } }
-
 .mt-1 .ai {
   color: #F3B26D; }
 
@@ -9820,38 +9758,87 @@ h2, h3 {
   font-family: fontAwesome;
   content: "\f0c5\00a0"; }
 
-.content-widget-hr .avatar-square {
-  -webkit-clip-path: polygon(25% 5%, 75% 5%, 100% 50%, 75% 95%, 25% 95%, 0% 50%);
-  clip-path: polygon(25% 5%, 75% 5%, 100% 50%, 75% 95%, 25% 95%, 0% 50%); }
-
 /* ****************************************************/
 /* Copied from https://github.com/connorrothschild/v2 */
 /* ****************************************************/
 /* intro animation */
-.main-content {
+@-webkit-keyframes slide-from-right {
+  0% {
+    -webkit-transform: translateX(150%);
+    transform: translateX(150%); }
+  100% {
+    -webkit-transform: translateX(0%);
+    transform: translateX(0%); } }
+
+@keyframes slide-from-right {
+  0% {
+    -webkit-transform: translateX(150%);
+    transform: translateX(150%); }
+  100% {
+    -webkit-transform: translateX(0%);
+    transform: translateX(0%); } }
+
+#about .biography-title {
+  -webkit-animation: slide-from-right 1s cubic-bezier(0.87, 0, 0.13, 1) forwards;
+  animation: slide-from-right 1s cubic-bezier(0.87, 0, 0.13, 1) forwards; }
+
+#about .main-content {
   animation: slide-from-right 1.5s cubic-bezier(0.4, 0, 0.13, 1) forwards;
-  animation-delay: 0ms; }
+  animation-delay: 0ms;
+  -webkit-animation: slide-from-right 1s cubic-bezier(0.87, 0, 0.13, 1) forwards;
+  animation: slide-from-right 1s cubic-bezier(0.87, 0, 0.13, 1) forwards;
+  -webkit-animation-delay: 100ms;
+  animation-delay: 100ms; }
 
-#profile .portrait-title {
-  opacity: 0;
-  position: relative;
-  left: -1000px;
-  -webkit-animation: slide-right 2s cubic-bezier(0.87, 0, 0.13, 1) forwards;
-  animation: slide-right 2s cubic-bezier(0.87, 0, 0.13, 1) forwards; }
+@-webkit-keyframes slide-from-left {
+  0% {
+    -webkit-transform: translateX(-150%);
+    transform: translateX(-150%); }
+  100% {
+    -webkit-transform: translateX(0%);
+    transform: translateX(0%); } }
 
-#profile .interests-div {
-  opacity: 0;
-  -webkit-animation: fade-in 1s forwards;
-  animation: fade-in 1s forwards;
-  -webkit-animation-delay: 1s;
-  animation-delay: 1s; }
+@keyframes slide-from-left {
+  0% {
+    -webkit-transform: translateX(-150%);
+    transform: translateX(-150%); }
+  100% {
+    -webkit-transform: translateX(0%);
+    transform: translateX(0%); } }
 
-#profile .education-div {
-  opacity: 0;
-  -webkit-animation: fade-in 1s forwards;
-  animation: fade-in 1s forwards;
-  -webkit-animation-delay: 1.5s;
-  animation-delay: 1.5s; }
+@-webkit-keyframes fade-in {
+  0% {
+    opacity: 0; }
+  100% {
+    opacity: 1; } }
+
+@keyframes fade-in {
+  0% {
+    opacity: 0; }
+  100% {
+    opacity: 1; } }
+
+#about #profile {
+  -webkit-animation: slide-from-left 1s cubic-bezier(0.87, 0, 0.13, 1) forwards;
+  animation: slide-from-left 1s cubic-bezier(0.87, 0, 0.13, 1) forwards; }
+  #about #profile .portrait-title {
+    opacity: 0;
+    position: relative;
+    left: -1000px;
+    -webkit-animation: slide-right 2s cubic-bezier(0.87, 0, 0.13, 1) forwards;
+    animation: slide-right 2s cubic-bezier(0.87, 0, 0.13, 1) forwards; }
+  #about #profile .interests-div {
+    opacity: 0;
+    -webkit-animation: grow 2s ease forwards;
+    animation: grow 2s ease forwards;
+    -webkit-animation-delay: 1.3s;
+    animation-delay: 1.3s; }
+  #about #profile .education-div {
+    opacity: 0;
+    -webkit-animation: grow 2s ease forwards;
+    animation: grow 2s ease forwards;
+    -webkit-animation-delay: 1.4s;
+    animation-delay: 1.4s; }
 
 @-webkit-keyframes slide-right {
   100% {
@@ -9872,34 +9859,33 @@ h2, h3 {
   100% {
     right: 0;
     opacity: 1; } }
-
-#profile .network-icon {
-  margin-top: 15px;
-  padding: 5px; }
-  #profile .network-icon .fa-envelope {
-    opacity: 0;
-    -webkit-animation: grow 2s ease forwards;
-    animation: grow 2s ease forwards;
-    -webkit-animation-delay: 1.3s;
-    animation-delay: 1.3s; }
-  #profile .network-icon .fa-graduation-cap {
-    opacity: 0;
-    -webkit-animation: grow 2s ease forwards;
-    animation: grow 2s ease forwards;
-    -webkit-animation-delay: 1.4s;
-    animation-delay: 1.4s; }
-  #profile .network-icon .fa-twitter {
-    opacity: 0;
-    -webkit-animation: grow 2s ease forwards;
-    animation: grow 2s ease forwards;
-    -webkit-animation-delay: 1.5s;
-    animation-delay: 1.5s; }
-  #profile .network-icon .fa-linkedin {
-    opacity: 0;
-    -webkit-animation: grow 2s ease forwards;
-    animation: grow 2s ease forwards;
-    -webkit-animation-delay: 1.6s;
-    animation-delay: 1.6s; }
+  #about #profile .network-icon {
+    margin-top: 15px;
+    padding: 5px; }
+    #about #profile .network-icon .fa-envelope {
+      opacity: 0;
+      -webkit-animation: grow 2s ease forwards;
+      animation: grow 2s ease forwards;
+      -webkit-animation-delay: 1.3s;
+      animation-delay: 1.3s; }
+    #about #profile .network-icon .fa-graduation-cap {
+      opacity: 0;
+      -webkit-animation: grow 2s ease forwards;
+      animation: grow 2s ease forwards;
+      -webkit-animation-delay: 1.4s;
+      animation-delay: 1.4s; }
+    #about #profile .network-icon .fa-twitter {
+      opacity: 0;
+      -webkit-animation: grow 2s ease forwards;
+      animation: grow 2s ease forwards;
+      -webkit-animation-delay: 1.5s;
+      animation-delay: 1.5s; }
+    #about #profile .network-icon .fa-linkedin {
+      opacity: 0;
+      -webkit-animation: grow 2s ease forwards;
+      animation: grow 2s ease forwards;
+      -webkit-animation-delay: 1.6s;
+      animation-delay: 1.6s; }
 
 @-webkit-keyframes grow {
   100% {
