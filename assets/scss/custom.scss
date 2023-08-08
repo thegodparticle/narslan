@@ -38,6 +38,11 @@
     -webkit-animation: slide-from-left 1s cubic-bezier(0.87, 0, 0.13, 1) forwards;
             animation: slide-from-left 1s cubic-bezier(0.87, 0, 0.13, 1) forwards;
   }
+.social-container {
+    -webkit-animation: slide-from-left 1s cubic-bezier(0.87, 0, 0.13, 1) forwards;
+            animation: slide-from-left 1s cubic-bezier(0.87, 0, 0.13, 1) forwards;
+}
+  
   
   @-webkit-keyframes fade-in {
     0% {opacity: 0}
@@ -49,21 +54,6 @@
     100% {opacity: 1}
   }
   
-  .interests-div {
-    opacity: 0;
-    -webkit-animation: fade-in 1s forwards;
-            animation: fade-in 1s forwards;
-    -webkit-animation-delay: 1s;
-            animation-delay: 1s;
-  }
-  
-  .education-div {
-    opacity: 0;
-    -webkit-animation: fade-in 1s forwards;
-            animation: fade-in 1s forwards;
-    -webkit-animation-delay: 1.5s;
-            animation-delay: 1.5s;
-  }
 }
 
 .mt-1 .ai {
@@ -205,24 +195,9 @@ h2, h3 {
   animation-delay: 0ms;
 }
 
-.btn-download {
-  opacity: 0;
-  animation: fade-in 2s forwards;
-  animation-delay: 1.4s;
-}
 
 #profile {
   
-  .avatar-square {
-  -webkit-clip-path: polygon(25% 5%, 75% 5%, 100% 50%, 75% 95%, 25% 95%, 0% 50%);
-  clip-path: polygon(25% 5%, 75% 5%, 100% 50%, 75% 95%, 25% 95%, 0% 50%);
-  opacity: 0;
-  position: relative;
-  right: -300px;
-  -webkit-animation: slide-left 2s cubic-bezier(0.87, 0, 0.13, 1) forwards;
-  animation: slide-left 2s forwards cubic-bezier(0.87, 0, 0.13, 1) forwards;
-  }
-
   .portrait-title {
     opacity: 0;
     position: relative;
@@ -231,6 +206,22 @@ h2, h3 {
     animation: slide-right 2s cubic-bezier(0.87, 0, 0.13, 1) forwards;
     
   }
+
+  .interests-div {
+    opacity: 0;
+    -webkit-animation: fade-in 1s forwards;
+            animation: fade-in 1s forwards;
+    -webkit-animation-delay: 1s;
+            animation-delay: 1s;
+  }
+
+  .education-div {
+    opacity: 0;
+    -webkit-animation: fade-in 1s forwards;
+            animation: fade-in 1s forwards;
+    -webkit-animation-delay: 1.5s;
+            animation-delay: 1.5s;
+  }  
   
   @-webkit-keyframes slide-right {
       100% { left: 0; opacity: 1}
@@ -261,7 +252,7 @@ h2, h3 {
               animation-delay: 1.3s;
     }
     
-    .fa-mastodon {
+    .fa-graduation-cap {
       opacity: 0;
       -webkit-animation: grow 2s ease forwards;
               animation: grow 2s ease forwards;
@@ -269,7 +260,7 @@ h2, h3 {
               animation-delay: 1.4s;
     }
     
-    .fa-linkedin {
+    .fa-twitter {
       opacity: 0;
       -webkit-animation: grow 2s ease forwards;
               animation: grow 2s ease forwards;
@@ -277,7 +268,7 @@ h2, h3 {
               animation-delay: 1.5s;
     }
     
-    .fa-playstation {
+    .fa-linkedin {
       opacity: 0;
       -webkit-animation: grow 2s ease forwards;
               animation: grow 2s ease forwards;
