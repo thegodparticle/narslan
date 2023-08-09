@@ -33,8 +33,15 @@ url_source: ""
 url_video: ""
 ---
 
-![png](./NeuralHealth.png)
+<div style="background-color: #f9f9f9; padding: 15px; border: 1px solid #eaeaea; border-radius: 10px; box-shadow: 2px 2px 12px #aaa; margin-top: 20px; margin-bottom: 20px; text-align: center;" class="theme-text">
 
+   ### **See the poster below:**
+
+   ![png](./NeuralHealth.png)
+
+</div>
+
+<!-- Embed scripts and badge section remains unchanged -->
 <html>
   <body>
     <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
