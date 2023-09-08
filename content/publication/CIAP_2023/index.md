@@ -60,3 +60,16 @@ url_video: "./publication/CIAP_2023/PosterVideo.mp4"
    ![png](./CIAP2023_1629_Arslan_Luo.png)
 
 </div>
+
+
+
+{{< html.inline >}}
+<div
+  hx-get="/content.html"
+  hx-trigger="click"
+  hx-target="#content_target" />
+  <button>Load content</button>
+  <div id="content_target"></div>
+</div>
+{{< /html.inline >}}
+
