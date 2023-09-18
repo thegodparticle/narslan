@@ -12,18 +12,6 @@
     </div>
   {{ end }}
 
-  {{ if or (site.GetPage "/terms.md") (site.GetPage "/privacy.md") }}
-  <p class="powered-by">
-    {{ with site.GetPage "/privacy.md" }}
-      {{ printf "<a href=\"%s\">%s</a>" .RelPermalink .Title | safeHTML }}
-    {{ end }}
-    {{ with site.GetPage "/terms.md" }}
-      {{ if site.GetPage "/privacy.md" }} &middot; {{ end }}
-      {{ printf "<a href=\"%s\">%s</a>" .RelPermalink .Title | safeHTML }}
-    {{ end }}
-  </p>
-  {{ end }}
-
   {{ with site.Params.footer.text }}
   <p class="powered-by">
     {{ . | markdownify | emojify }}
@@ -32,10 +20,6 @@
 
   {{/* Display copyright license. */}}
   {{ partial "site_footer_license" . }}
-  
-  <p class="powered-by">
-   Site built with lightly customized version of <a href="https://github.com/wowchemy/starter-hugo-academic" target="_blank" rel="noopener">Wowchemy Academic</a>. Code available on <a href="https://github.com/nballou/nickballousite" target="_blank" rel="noopener">Github</a>.
-  </p>
   
   <br style="line-height: 5px" />
   
