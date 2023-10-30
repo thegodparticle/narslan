@@ -205,7 +205,7 @@ ________________________________________
     </tr>
     <tr>
         <td>
-        <b>Arslan, N.O. & Luo, X. (2023).</b> Neural health measures are correlated with place pitch sensitivity of cochlear implant users.
+        <b>Arslan, N.O. & Luo, X. (2022).</b> Neural health measures are correlated with place pitch sensitivity of cochlear implant users.
         <br> Poster presented at 2022 Institute for Social Science Research Graduate Student Poster Contest.</td>
     </tr> 
 </table>
