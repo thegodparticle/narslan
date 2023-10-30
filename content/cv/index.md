@@ -2,7 +2,7 @@
 title: "Curriculum Vitae"
 author: ["admin"]
 date: '2023-09-27'
-lastmod: '2023-09-28'
+lastmod: '2023-10-30'
 output: html_document
 ---
 
@@ -77,16 +77,25 @@ ________________________________________
 
 <table>
     <tr>
-        <td><b>2020 - 2025</b></td>
-        <td><b>Ph.D. in Speech and Hearing Sciences</b> <br> Emphasis: Auditory and Language Neuroscience <br> Arizona State University <br> GPA: 4.0 </td>
+        <td><b>2020 - 2024</b></td>
+        <td><b>Ph.D. in Speech and Hearing Sciences (Auditory and Language Neuroscience) </b> 
+        <br> Arizona State University, Tempe, Arizona, USA 
+        <br> Thesis: Exploring the Relationship Between Pitch Sensitivity and Neural Health in Cochlear Implant Users 
+        <br> GPA: 4.0 </td>
     </tr>
     <tr>
         <td><b>2017 - 2019</b></td>
-        <td><b>MSc in Speech and Hearing Sciences</b> <br> Marmara University <br> Thesis: Comparison of Spectral Resolution Test Batteries in Normal Hearing and Cochlear Implant Users <br> GPA: 4.0 - High Honor Student</td>
+        <td><b>MSc. in Speech and Hearing Sciences</b> 
+        <br> Marmara University, Istanbul, Turkey
+        <br> Thesis: Comparison of Spectral Resolution Test Batteries in Normal Hearing and Cochlear Implant Users 
+        <br> GPA: 4.0 - High Honor Student</td>
     </tr>
     <tr>
         <td><b>2012 - 2017</b></td>
-        <td><b>BSc in Audiology</b> <br> Bezmialem Vakif University <br> Thesis: Comparison of Click, Tonebursts, and Chirp Stimulated C-Vemp and O-Vemp Responses in Healthy People <br> GPA: 3.79</td>
+        <td><b>BSc. in Audiology</b> 
+        <br> Bezmialem Vakif University, Istanbul, Turkey
+        <br> Thesis: Comparison of Click, Tonebursts, and Chirp Stimulated C-Vemp and O-Vemp Responses in Healthy People
+        <br> GPA: 3.79</td>
     </tr>
 </table>
 
@@ -96,19 +105,27 @@ ________________________________________
 <table>
     <tr>
         <td><b>2020 - Present</b></td>
-        <td><b>Graduate Teaching Associate</b><br> College of Health Solutions<br> Arizona State University</td>
+        <td><b>Graduate Teaching Associate</b>
+        <br> College of Health Solutions
+        <br> Arizona State University, Tempe, Arizona, USA</td>
     </tr>
     <tr>
         <td><b>2020 - Present</b></td>
-        <td><b>Graduate Research Associate</b><br> Auditory Implant Lab<br> Arizona State University</td>
+        <td><b>Graduate Research Associate</b>
+        <br> Auditory Implant Lab
+        <br> Arizona State University, Tempe, Arizona, USA</td>
     </tr>
     <tr>
         <td><b>2017 - 2019</b></td>
-        <td><b>Audiologist</b><br> Auditory Training Department<br> Ikem Isık Education and Rehabilitation Center (Istanbul/Turkey)</td>
+        <td><b>Audiologist</b>
+        <br> Auditory Training Department
+        <br> Ikem Isık Education and Rehabilitation Center, Istanbul, Turkey</td>
     </tr>
     <tr>
         <td><b>2016-2017</b></td>
-        <td><b>Intern</b><br> Audiology Clinic, Department of Neuroscience<br> University of Padua (Padua / Italy)</td>
+        <td><b>Intern</b>
+        <br> Audiology Clinic, Department of Neuroscience
+        <br> University of Padova, Padua, Italy</td>
     </tr>
 </table>
 
@@ -118,14 +135,14 @@ ________________________________________
 ### Peer Reviewed Journal Publications
 <table>
     <tr>
-        <td><b>Arslan, N. O., & Luo, X. (2022).</b> Assessing the relationship between pitch perception and neural health in cochlear implant users. <i>Journal of the Association for Research in Otolaryngology</i>, 1-13.<br><a href="https://doi.org/10.1007/s10162-022-00876-w">https://doi.org/10.1007/s10162-022-00876-w</a></td>
+        <td><b>Arslan, N. O., & Luo, X. (2022).</b> Assessing the relationship between pitch perception and neural health in cochlear implant users. <i>Journal of the Association for Research in Otolaryngology</i>, 23, 875–887.<br><a href="https://doi.org/10.1007/s10162-022-00876-w">https://doi.org/10.1007/s10162-022-00876-w</a></td>
     </tr>
     <tr>
-        <td><b>Arslan, N. O., Akbulut, A. A., Köse, B., Karaman-Demirel, A., & Derinsu, U. (2021).</b> Sound quality perception of cochlear implant recipients: low-frequency information and foreign-language effect. <i>International Journal of Audiology</i>, 1-9.<br><a href="https://doi.org/10.1080/14992027.2021.2005833">https://doi.org/10.1080/14992027.2021.2005833</a></td>
+        <td><b>Arslan, N. O., Akbulut, A. A., Köse, B., Karaman-Demirel, A., & Derinsu, U. (2021).</b> Sound quality perception of cochlear implant recipients: low-frequency information and foreign-language effect. <i>International Journal of Audiology</i>, 61:12, 1045-1053.<br><a href="https://doi.org/10.1080/14992027.2021.2005833">https://doi.org/10.1080/14992027.2021.2005833</a></td>
     </tr>
 </table>
 
-### Non-Peer Reviewed
+### Non-Peer Reviewed Articles
 
 <table>    
     <tr>
@@ -142,10 +159,12 @@ ________________________________________
 
 <table>    
     <tr>
-        <td><b>Arslan, N.O. & Luo, X.</b> Effect of pulse polarity on temporal and place pitch sensitivity of cochlear implant recipients.</td>
+        <td><b>Arslan, N.O. & Luo, X.</b> Effect of pulse polarity on temporal and place pitch sensitivity of cochlear implant recipients.
+        <br> In preparation for Journal of the Acoustic Society of America.
+        </td>
     </tr>
     <tr>
-        <td><b>Arslan, N.O. & Luo, X.</b> Neural survival proximity to the stimulation site influences the advantages of current focusing on place-pitch ranking.</td>
+        <td><b>Arslan, N.O. & Luo, X.</b> Effect of neural health on the benefits of current focusing in place-pitch sensitivity of cochlear implant recipients.</td>
     </tr>
 </table>
 
@@ -157,13 +176,16 @@ ________________________________________
 
 <table>    
     <tr>
-        <td><b>Arslan, N.O. & Luo, X. (2022).</b> Neural Health Measures Are Correlated With Place Pitch Sensitivity of Cochlear Implant Users. Talk presented at ARO 45th Annual MidWinter Meeting.</td>
+        <td><b>Arslan, N.O. & Luo, X. (2022).</b> Neural health measures are correlated with place pitch sensitivity of cochlear implant users. 
+        <br>Talk presented at Association for Research in Otolaryngology 45th Annual MidWinter Virtual Meeting.</td>
     </tr>
     <tr>
-        <td><b>Arslan, N.O. &  Ciprut, A. (2019).</b> Comparison of Spectral Resolution Test Batteries in Normal Hearing and Cochlear Implant Users. Talk presented at Marmara University Audiology Alumni Meeting, Istanbul-Turkey.</td>
+        <td><b>Arslan, N.O. &  Ciprut, A. (2019).</b> Comparison of spectral resolution test batteries in normal hearing and cochlear implant users.
+        <br> Talk presented at Marmara University Audiology Alumni Meeting in Istanbul, Turkey.</td>
     </tr>
     <tr>
-        <td><b>Arslan, N.O., Bal, N., Gedik, O., Aydın, Z., &  Demirci, B. (2018).</b> Comparison of Spectral Resolution Test Batteries in Normal Hearing and Cochlear Implant Users. Talk presented at Marmara University Audiology Alumni Meeting, Istanbul-Turkey.</td>
+        <td><b>Arslan, N.O., Bal, N., Gedik, O., Aydın, Z., &  Demirci, B. (2018).</b> Comparison of click, tonebursts, and chirp stimulated C-Vemp and O-Vemp responses in healthy people. 
+        <br> Talk presented at National Audiology Congress in Istanbul, Turkey.</td>
     </tr>    
 </table>
 
@@ -171,13 +193,20 @@ ________________________________________
 
 <table>    
     <tr>
-        <td><b>Arslan, N.O. & Luo, X. (2023).</b> The Effect of Pulse Shape on Pitch Sensitivity of Cochlear Implant Users. Poster presented at CIAP 2023.</td>
+        <td><b>Arslan, N.O. & Luo, X. (2023).</b> The effect of pulse shape on pitch sensitivity of cochlear implant users. 
+        <br> Poster presented at Conference on Implantable Auditory Prostheses 2023 (CIAP2023).
+        </td>
     </tr>
     <tr>
-        <td><b>Arslan, N.O. & Luo, X. (2023).</b> Anodic-centered triphasic pulses may improve pitch perception in cochler implant users. Poster presented at 2023 ISSR Graduate Student Poster Contest.</td>
+        <td>
+        <b>Arslan, N.O. & Luo, X. (2023).</b> Anodic-centered triphasic pulses may improve pitch perception in cochlear implant users. 
+        <br> Poster presented at 2023 Institute for Social Science Research Graduate Student Poster Contest.
+        </td>
     </tr>
     <tr>
-        <td><b>Arslan, N.O. & Luo, X. (2023).</b> Neural Health Measures Are Correlated With Place Pitch Sensitivity of Cochlear Implant Users. Poster presented at 2023 ISSR Graduate Student Poster Contest.</td>
+        <td>
+        <b>Arslan, N.O. & Luo, X. (2023).</b> Neural health measures are correlated with place pitch sensitivity of cochlear implant users.
+        <br> Poster presented at 2022 Institute for Social Science Research Graduate Student Poster Contest.</td>
     </tr> 
 </table>
 
@@ -224,7 +253,7 @@ ________________________________________
     </tr>
     <tr>
         <td><b>Fall 2020</b></td>
-        <td>SHS 310: Anatomical/Physio Bases Speech<br>
+        <td>SHS 310: Anatomical and Physiological Bases of Speech<br>
             SHS 401: Principles of Audiology
         </td>
     </tr>
@@ -248,7 +277,7 @@ ________________________________________
 </table>
 
 
-## AWARDS & HONORS & GRANTS
+## AWARDS, HONORS & GRANTS
 ________________________________________
 
 <table>
@@ -260,17 +289,17 @@ ________________________________________
     <tr>
         <td><b>2023</b></td>
         <td>Award</td>
-        <td>“Graduate College Travel Award Q1” issued by ASU Graduate College</td>
+        <td>"Graduate College Travel Award Q1" issued by Graduate College, Arizona State University</td>
     </tr>
     <tr>
         <td><b>2023</b></td>
         <td>Award</td>
-        <td>“CHS Graduate Student Support” issued by ASU College of Health Solutions</td>
+        <td>"College of Health Solutions Graduate Student Support" issued by College of Health Solutions, Arizona State University </td>
     </tr>
     <tr>
         <td><b>2023</b></td>
         <td>Award</td>
-        <td>“Travel Grant” Issued by ASU Graduate and Professional Student Association</td>
+        <td>"Travel Grant" Issued by Graduate and Professional Student Association, Arizona State University</td>
     </tr>
     <tr>
         <td><b>2022</b></td>
@@ -290,7 +319,7 @@ ________________________________________
     <tr>
         <td><b>2022</b></td>
         <td>Award</td>
-        <td>"ARO MidWinter Meeting Travel Award" Issued by Association for Research in Otolaryngology</td>
+        <td>"ARO MidWinter Meeting Travel Award" issued by Association for Research in Otolaryngology</td>
     </tr>
     <tr>
         <td><b>2017-2019</b></td>
@@ -300,12 +329,12 @@ ________________________________________
     <tr>
         <td><b>2016</b></td>
         <td>Award</td>
-        <td>“Erasmus+ Traineeships Student Funding” Issued by European Commission</td>
+        <td>"Erasmus+ Traineeships Student Funding" issued by European Commission</td>
     </tr>
     <tr>
         <td><b>2015-2017</b></td>
         <td>Award & Honor</td>
-        <td>“Academic Achievement Scholarship” Issued by Bezmialem Vakif University</td>
+        <td>"Academic Achievement Scholarship" issued by Bezmialem Vakif University</td>
     </tr>
 </table>
 
@@ -320,14 +349,14 @@ ________________________________________
             Web Technologies: HTML, CSS</td>
     </tr>
     <tr>
-        <td><b>Statistical & Data Analysis:</b></td>
+        <td><b>Data Analysis:</b></td>
         <td>Languages: R, Python<br>
             Tools: SPSS</td>
     </tr>
     <tr>
-        <td><b>Signal Analysis:</b></td>
-        <td>Languages: Matlab, Python<br>
-            Tools: BEDCS, Praat, Audacity, Adobe Audition</td>
+        <td><b>Signal Processing and Analysis:</b></td>
+        <td>Languages: MATLAB, Python<br>
+            Tools: Bionic Ear Data Collection System, Praat, Audacity, Adobe Audition</td>
     </tr>
 </table>
 
