@@ -1,8 +1,7 @@
 ---
-title: "Curriculum Vitae"
-author: ["admin"]
-date: '2023-09-27'
-lastmod: '2023-10-30'
+title: ""
+date: ''
+lastmod: '2024-02-18'
 output: html_document
 ---
 
@@ -59,17 +58,16 @@ tr:hover {
 }
 </style>
 
-<center style="margin: 2em 0;">
-    <a href="/cv/NiyaziArslan_CV_2023.pdf" target="_blank" style="display: inline-block; padding: 12px 25px; color: #FFFFFF; background-color: #2c3e50; border-radius: 25px; text-decoration: none; font-size: 20px; transition: background-color 0.3s;">
-        <i class="fa fa-download" aria-hidden="true"></i> &nbsp; Download my CV!
-    </a>
-</center>
+
 
 <style>
     a:hover {
         background-color: #34495e;
     }
 </style>
+
+
+
 
 
 ## EDUCATION
@@ -375,7 +373,6 @@ ________________________________________
             Tools: Bionic Ear Data Collection System, Praat, Audacity, Adobe Audition</td>
     </tr>
 </table>
-
 
 
 

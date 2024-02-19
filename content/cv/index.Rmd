@@ -1,7 +1,6 @@
 ---
-title: "Curriculum Vitae"
-author: ["admin"]
-date: '2023-09-27'
+title: ""
+date: ''
 lastmod: '`r format(Sys.time(), "%Y-%m-%d")`'
 output: html_document
 ---
@@ -59,11 +58,7 @@ tr:hover {
 }
 </style>
 
-<center style="margin: 2em 0;">
-    <a href="/cv/NiyaziArslan_CV_2023.pdf" target="_blank" style="display: inline-block; padding: 12px 25px; color: #FFFFFF; background-color: #2c3e50; border-radius: 25px; text-decoration: none; font-size: 20px; transition: background-color 0.3s;">
-        <i class="fa fa-download" aria-hidden="true"></i> &nbsp; Download my CV!
-    </a>
-</center>
+
 
 <style>
     a:hover {
@@ -72,12 +67,15 @@ tr:hover {
 </style>
 
 
+
+
+
 ## EDUCATION
 ________________________________________
 
 <table>
     <tr>
-        <td><b>2020 - 2024</b></td>
+        <td><b>2020 - Present</b></td>
         <td><b>Ph.D. in Speech and Hearing Sciences (Auditory and Language Neuroscience) </b> 
         <br> Arizona State University, Tempe, Arizona, USA 
         <br> Thesis: Exploring the Relationship Between Pitch Sensitivity and Neural Health in Cochlear Implant Users 
@@ -191,7 +189,12 @@ ________________________________________
 
 ### Poster Presentations
 
-<table>    
+<table>
+    <tr>
+        <td><b>Arslan, N.O., Vecellio, A. & Luo, X. (2024).</b> Hearing History may Influence the Music-Remixing Benefit in Electrical Hearing. 
+        <br> Poster presented at The AAS 51st Annual Scientific & Technology Conference.
+        </td>
+    </tr>
     <tr>
         <td><b>Arslan, N.O. & Luo, X. (2023).</b> The effect of pulse shape on pitch sensitivity of cochlear implant users. 
         <br> Poster presented at Conference on Implantable Auditory Prostheses 2023 (CIAP2023).
@@ -216,6 +219,12 @@ ________________________________________
 ### Teaching Assistantships
 
 <table>
+    <tr>
+        <td><b>Spring 2024</b></td>
+        <td>SHS 555: Cochlear Implants<br>
+            SHS 311: Hearing Science<br>
+        </td>
+    </tr>
     <tr>
         <td><b>Fall 2023</b></td>
         <td>SHS 311: Hearing Science<br>
@@ -281,6 +290,11 @@ ________________________________________
 ________________________________________
 
 <table>
+    <tr>
+        <td><b><b>2024</b></b></td>
+        <td><b>Award</b></td>
+        <td>""College of Health Solutions Graduate Student Support" issued by College of Health Solutions, Arizona State University</td>
+    </tr>
     <tr>
         <td><b><b>2023</b></b></td>
         <td><b>Award</b></td>
@@ -359,7 +373,6 @@ ________________________________________
             Tools: Bionic Ear Data Collection System, Praat, Audacity, Adobe Audition</td>
     </tr>
 </table>
-
 
 
 
