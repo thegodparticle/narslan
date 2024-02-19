@@ -77,7 +77,7 @@ ________________________________________
 
 <table>
     <tr>
-        <td><b>2020 - 2024</b></td>
+        <td><b>2020 - Present</b></td>
         <td><b>Ph.D. in Speech and Hearing Sciences (Auditory and Language Neuroscience) </b> 
         <br> Arizona State University, Tempe, Arizona, USA 
         <br> Thesis: Exploring the Relationship Between Pitch Sensitivity and Neural Health in Cochlear Implant Users 
@@ -191,7 +191,12 @@ ________________________________________
 
 ### Poster Presentations
 
-<table>    
+<table>
+    <tr>
+        <td><b>Arslan, N.O., Vecellio, A. & Luo, X. (2024).</b> Hearing History may Influence the Music-Remixing Benefit in Electrical Hearing. 
+        <br> Poster presented at The AAS 51st Annual Scientific & Technology Conference.
+        </td>
+    </tr>
     <tr>
         <td><b>Arslan, N.O. & Luo, X. (2023).</b> The effect of pulse shape on pitch sensitivity of cochlear implant users. 
         <br> Poster presented at Conference on Implantable Auditory Prostheses 2023 (CIAP2023).
@@ -216,6 +221,12 @@ ________________________________________
 ### Teaching Assistantships
 
 <table>
+    <tr>
+        <td><b>Spring 2024</b></td>
+        <td>SHS 555: Cochlear Implants<br>
+            SHS 311: Hearing Science<br>
+        </td>
+    </tr>
     <tr>
         <td><b>Fall 2023</b></td>
         <td>SHS 311: Hearing Science<br>
@@ -281,6 +292,11 @@ ________________________________________
 ________________________________________
 
 <table>
+    <tr>
+        <td><b><b>2024</b></b></td>
+        <td><b>Award</b></td>
+        <td>""College of Health Solutions Graduate Student Support" issued by College of Health Solutions, Arizona State University</td>
+    </tr>
     <tr>
         <td><b><b>2023</b></b></td>
         <td><b>Award</b></td>
