@@ -76,16 +76,17 @@ ________________________________________
 <table>
     <tr>
         <td><b>2020 - Present</b></td>
-        <td><b>Ph.D. in Speech and Hearing Sciences (Auditory and Language Neuroscience) </b> 
+        <td><b>Ph.D. Candidate in Speech and Hearing Sciences </b>
+        <br> Concentration: Auditory and Language Neuroscience
         <br> Arizona State University, Tempe, Arizona, USA 
-        <br> Thesis: Exploring the Relationship Between Pitch Sensitivity and Neural Health in Cochlear Implant Users 
+        <br> Thesis: Exploring the Influence of Neural Health on the Efficacy of Electrical Field Shaping Techniques in Cochlear Implant Recipients (in progress) 
         <br> GPA: 4.0 </td>
     </tr>
     <tr>
         <td><b>2017 - 2019</b></td>
         <td><b>MSc. in Speech and Hearing Sciences</b> 
         <br> Marmara University, Istanbul, Turkey
-        <br> Thesis: Comparison of Spectral Resolution Test Batteries in Normal Hearing and Cochlear Implant Users 
+        <br> Thesis: Comparison of Spectral Resolution Test Batteries in Normal Hearing Listeners and Cochlear Implant Users
         <br> GPA: 4.0 - High Honor Student</td>
     </tr>
     <tr>
@@ -222,7 +223,6 @@ ________________________________________
     <tr>
         <td><b>Spring 2024</b></td>
         <td>SHS 555: Cochlear Implants<br>
-            SHS 311: Hearing Science<br>
         </td>
     </tr>
     <tr>
@@ -291,13 +291,23 @@ ________________________________________
 
 <table>
     <tr>
-        <td><b><b>2024</b></b></td>
-        <td><b>Award</b></td>
-        <td>""College of Health Solutions Graduate Student Support" issued by College of Health Solutions, Arizona State University</td>
+        <td><b>2024-2025</b></td>
+        <td>Award</td>
+        <td>"Completion Fellowship" issued by Graduate College, Arizona State University</td>
     </tr>
     <tr>
-        <td><b><b>2023</b></b></td>
-        <td><b>Award</b></td>
+        <td><b>2024</b></td>
+        <td>Award & Honor</td>
+        <td>"CAPCSD Ph.D. Scholarship" issued by the Council of Academic Programs in Communication Sciences and Disorders</td>
+    </tr>    
+    <tr>
+        <td><b>2024</b></td>
+        <td>Award</td>
+        <td>"College of Health Solutions Graduate Student Support" issued by College of Health Solutions, Arizona State University</td>
+    </tr>
+    <tr>
+        <td><b>2023</b></td>
+        <td>Award</td>
         <td>"CIAP2023 Student Aid Award" issued by Conference on Implantable Auditory Prostheses Committee</td>
     </tr>
     <tr>
