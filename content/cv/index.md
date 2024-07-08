@@ -134,6 +134,9 @@ ________________________________________
 ### Peer Reviewed Journal Publications
 <table>
     <tr>
+        <td><b>Arslan, N. O., & Luo, X. (2024).</b> Effects of Pulse Shape on Pitch Sensitivity of Cochlear Implant Users. <i>Hearing Research</i>, 109075.<br><a href="https://doi.org/10.1016/j.heares.2024.109075">https://doi.org/10.1016/j.heares.2024.109075</a></td>
+    </tr>
+    <tr>
         <td><b>Arslan, N. O., & Luo, X. (2022).</b> Assessing the relationship between pitch perception and neural health in cochlear implant users. <i>Journal of the Association for Research in Otolaryngology</i>, 23, 875–887.<br><a href="https://doi.org/10.1007/s10162-022-00876-w">https://doi.org/10.1007/s10162-022-00876-w</a></td>
     </tr>
     <tr>
@@ -158,12 +161,12 @@ ________________________________________
 
 <table>    
     <tr>
-        <td><b>Arslan, N.O. & Luo, X.</b> Effect of pulse polarity on temporal and place pitch sensitivity of cochlear implant recipients.
+        <td><b>Arslan, N.O., Vecellio, A., & Luo, X.</b> Hearing history may influence the benefit from remixing music in electrical hearing.
         <br> In preparation for Journal of the Acoustic Society of America.
         </td>
     </tr>
     <tr>
-        <td><b>Arslan, N.O. & Luo, X.</b> Effect of neural health on the benefits of current focusing in place-pitch sensitivity of cochlear implant recipients.</td>
+        <td><b>Arslan, N.O., & Luo, X.</b> Effect of neural health on the benefits of current focusing in place-pitch sensitivity of cochlear implant recipients.</td>
     </tr>
 </table>
 

@@ -3,9 +3,9 @@ bio: My research interests include auditory neuroscience, psychoacoustics, and i
 
 education:
   courses:
-  - course: PhD in Speech and Hearing Science (Auditory and Language Neuroscience)
+  - course: PhD Candidate in Speech and Hearing Science 
     institution: Arizona State University
-    year: 2025
+    year: Present
   - course: MSc in Speech and Hearing Science
     institution: Marmara University
     year: 2019
