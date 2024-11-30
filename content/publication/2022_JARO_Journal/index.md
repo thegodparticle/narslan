@@ -12,7 +12,7 @@ image:
   focal_point: ""
   preview_only: false
 #projects: []
-publication: '*Journal of the Association for Research in Otolaryngology, 23* 875–887 (2022)'
+publication: '*Journal of the Association for Research in Otolaryngology, 23*, 875–887'
 #publication_short: ""
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
