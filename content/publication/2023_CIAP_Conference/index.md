@@ -8,7 +8,7 @@ authors:
 - Xin Luo
 date: "2023-07-09"
 doi: ""
-featured: true
+featured: false
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/rPOmLGwai2w)'
   focal_point: ""

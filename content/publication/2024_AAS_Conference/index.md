@@ -35,8 +35,6 @@ url_video: ""
 ---
 
 
-**Introduction**
-
 Music appreciation through electric hearing in postlingually
 deafened and implanted cochlear implant (CI) users often
 faces limitations, given their prior acoustic-hearing experience.

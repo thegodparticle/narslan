@@ -44,7 +44,7 @@ social:
   link: https://twitter.com/niyazioarslan
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/niyaziarslan/
+  link: https://www.linkedin.com/in/niyazi-arslan/
 # Uncomment below if needed
 #- icon: github
 #  icon_pack: fab
@@ -60,7 +60,7 @@ title: Niyazi Arslan
 ---
 
 
-<p>Niyazi O. Arslan is a fourth-year Ph.D. student in the Speech and Hearing Science program at Arizona State University. He is a Graduate Research Associate at the Auditory Implant Laboratory, directed by Dr. Xin Luo. He obtained a Bachelor of Science (BSc.) degree in Audiology from Bezmialem Vakif University and a Master of Science (MSc.) degree in Speech and Hearing Sciences from Marmara University. Niyazi has also worked as an audiologist in cochlear implant services in Istanbul, Turkey. His current research interests include cochlear implants, auditory psychophysics, and the relationship between pitch perception and neural health.</p>
+<p>Niyazi Arslan is a Ph.D. candidate in the Speech and Hearing Science program at Arizona State University. </p>
 
 <!--
 </center> 
