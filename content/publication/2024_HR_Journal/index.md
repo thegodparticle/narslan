@@ -12,7 +12,7 @@ image:
   focal_point: ""
   preview_only: false
 #projects: []
-publication: 'Hearing Research'
+publication: '*Hearing Research, 450* 109075 (2024)'
 #publication_short: ""
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
